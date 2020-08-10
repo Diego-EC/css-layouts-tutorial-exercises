@@ -27,14 +27,3 @@
 	overflow: hidden;
 	border-radius: 25px;
 }
-#div4 {
-	background-color: blue;
-	color: black;
-	width: 150px;
-	height: 100px;
-	padding: 100px;
-	text-align: center;
-	border-radius: 50px;
-	float: left;
-	clear: left;
-}

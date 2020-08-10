@@ -1,3 +1,18 @@
-#wrapper{background: grey;}
-#sidebar{background: blue;}
-#content{background: yellow;}
+#wrapper {
+	background: grey;
+	display: flex;
+}
+#wrapper > div {
+	padding: 5px;
+}
+#sidebar {
+	background: blue;
+	height: 100px;
+	color: white;
+	width: 200px;
+}
+#content {
+	background: yellow;
+	height: 100px;
+	width: 100%;
+}

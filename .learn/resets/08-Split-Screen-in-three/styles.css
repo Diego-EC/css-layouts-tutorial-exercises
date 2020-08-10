@@ -1,10 +1,6 @@
 body {
 	margin: 0;
 }
-div > div {
-	display: flex;
-	width: 33%;
-}
 #sectionA {
 	background: blue;
 }
@@ -13,7 +9,4 @@ div > div {
 }
 #sectionC {
 	background: green;
-}
-#wrapper {
-	display: flex;
 }
